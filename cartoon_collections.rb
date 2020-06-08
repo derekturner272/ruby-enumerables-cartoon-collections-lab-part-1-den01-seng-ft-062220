@@ -6,5 +6,4 @@ end
 
 def list_dwarves(array)
   array.list
-  end
 end
