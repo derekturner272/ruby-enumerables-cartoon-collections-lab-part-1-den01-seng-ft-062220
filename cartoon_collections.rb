@@ -1,6 +1,7 @@
 def greet_characters(array)
   array.each do |name|
     "Hello #{name}!"
+  end
 end
 
 def list_dwarves(array)
